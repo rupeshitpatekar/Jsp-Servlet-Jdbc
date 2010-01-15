@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/doc/com/wissen/server
+END
+LoginServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/LoginServlet.html
+END
+InsertRecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/InsertRecord.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-summary.html
+END
+DeleteServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/DeleteServlet.html
+END
+UpdateServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/UpdateServlet.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-tree.html
+END
