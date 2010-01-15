@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/com/wissen/server
+END
+LoginServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/com/wissen/server/LoginServlet.class
+END
+InsertRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/com/wissen/server/InsertRecord.class
+END
+DeleteServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/com/wissen/server/DeleteServlet.class
+END
+UpdateServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/com/wissen/server/UpdateServlet.class
+END

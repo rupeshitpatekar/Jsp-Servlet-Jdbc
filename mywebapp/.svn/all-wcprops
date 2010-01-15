@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/mywebapp
+END
+Insert.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/mywebapp/Insert.jsp
+END
+first.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/mywebapp/first.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/mywebapp/Login.jsp
+END
+Welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/mywebapp/Welcome.jsp
+END
+screen.css
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/mywebapp/screen.css
+END
+DeleteError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/mywebapp/DeleteError.jsp
+END
+MyWebApp.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/mywebapp/MyWebApp.html
+END
+UpdateError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/mywebapp/UpdateError.jsp
+END
+DeleteInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/mywebapp/DeleteInfo.jsp
+END
+UpdateInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/mywebapp/UpdateInfo.jsp
+END
+MyWebApp.css
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/mywebapp/MyWebApp.css
+END
+Update.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/mywebapp/Update.jsp
+END

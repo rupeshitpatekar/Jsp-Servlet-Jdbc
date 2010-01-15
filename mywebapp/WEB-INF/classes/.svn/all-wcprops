@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes
+END
+ShowFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/ShowFile.class
+END
+DBConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/DBConnection.class
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/log4j.properties
+END
+HelloWorldExample.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/HelloWorldExample.class
+END
+FormServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/mywebapp/WEB-INF/classes/FormServlet.class
+END
